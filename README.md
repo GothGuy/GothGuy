@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GothGuy
 - 👀 I’m interested in ... Evoultion of new Kernals 
-- 🌱 I’m currently learning ... CSS and trying to download as much into my muscle memory
+- 🌱 I’m currently learning ... PHP and trying to download as much into my muscle memory
 - 💞️ I’m looking to collaborate on ... Beginner tips and hints
 - 📫 How to reach me ... @nathanielochoa19@gmail.com
 
